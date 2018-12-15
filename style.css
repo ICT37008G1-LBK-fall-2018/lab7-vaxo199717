@@ -1,0 +1,15 @@
+#btn{
+    margin:10px 0 0 10px;
+    
+    border-style: none;
+    background-color: rgb(53, 53, 53);
+    color: white;
+    padding: 5px;
+    font-size: 30px;
+
+}
+#btn:hover{
+    transition: 0.4s all;
+    background-color: blue;
+    box-shadow: rgb(68, 68, 68) 0 8px 16px 0;
+}
